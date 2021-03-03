@@ -1,0 +1,10 @@
+{
+  "outputPath": "www/build/",
+  "publicPath": "/build",
+  "scripts": {
+    "app": ["./www/bundles/app/js/app.js"]
+  },
+  "stylesheets": {
+    "screen": ["./www/bundles/app/scss/screen.scss"]
+  }
+}
